@@ -1,7 +1,7 @@
 name: KeyShop
 main: fernanACM\KeyShop\KeyShop
-version: 1.0.0
-api: 5.3.0
+version: 1.0.1
+api: 5.36.0
 author: fernanACM
 description: "A store plugin to sell keys on your server. Only for PocketMine-MP 5.0"
 website: https://github.com/fernanACM
